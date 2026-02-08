@@ -4,4 +4,4 @@ const greeting = require("./greeting");
 console.log("Hello from JavaScript!");
 console.log(moment().startOf("day").fromNow());
 console.log(day().format());
-greeting("abdo");
+greeting("abdosn");

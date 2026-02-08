@@ -1425,7 +1425,7 @@ eval("{\nconst greeting = (param) => {\n    console.log(`hi ${param}`);\n}\nmodu
   \**********************/
 (__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval("{const day = __webpack_require__(/*! dayjs */ \"./node_modules/dayjs/dayjs.min.js\");\nconst {moment} = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\nconst greeting = __webpack_require__(/*! ./greeting */ \"./src/greeting.js\");\nconsole.log(\"Hello from JavaScript!\");\nconsole.log(moment().startOf(\"day\").fromNow());\nconsole.log(day().format());\ngreeting(\"abdo\");\n\n\n//# sourceURL=webpack://webpack-dinasour/./src/index.js?\n}");
+eval("{const day = __webpack_require__(/*! dayjs */ \"./node_modules/dayjs/dayjs.min.js\");\nconst moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\nconst greeting = __webpack_require__(/*! ./greeting */ \"./src/greeting.js\");\nconsole.log(\"Hello from JavaScript!\");\nconsole.log(moment().startOf(\"day\").fromNow());\nconsole.log(day().format());\ngreeting(\"abdosn\");\n\n\n//# sourceURL=webpack://webpack-dinasour/./src/index.js?\n}");
 
 /***/ }
 
