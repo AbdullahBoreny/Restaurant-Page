@@ -1,0 +1,21 @@
+{
+  "name": "webpack-dinasour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "loadsh": "^0.0.4",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.105.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
