@@ -7,7 +7,7 @@ const menuPage =function () {
   const container = document.querySelector("#content");
   h1.textContent = "Menu";
   paragraph.textContent =
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eius iure repellendus, earum necessitatibus odio, pariatur autem optio animi blanditiis quisquam accusantium temporibus ipsum tenetur inventore sunt esse. Nemo, accusamus";
+    "Lorem ipssum dolor sit amet consectetur adipisicing elit. Obcaecati eius iure repellendus, earum necessitatibus odio, pariatur autem optio animi blanditiis quisquam accusantium temporibus ipsum tenetur inventore sunt esse. Nemo, accusamus";
   h2.textContent = "Around The Menu";
   paragraph2.textContent =
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati eius iure repellendus, earum necessitatibus odio, pariatur autem optio animi blanditiis quisquam accusantium temporibus ipsum tenetur inventore sunt esse. Nemo, accusamus";
